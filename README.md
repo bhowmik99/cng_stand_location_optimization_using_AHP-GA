@@ -27,6 +27,7 @@ All datasets included as Excel/CSV files in this repo.
 ## Key Finding
 
 The GA confirmed Rikabi Bazar's placement as near-optimal (nearest GA alternative only 69m away), despite it having the lowest baseline AHP score among existing stands — suggesting its low score reflects a genuine geographic constraint, not poor siting. Modina Market and Pathantula each had GA-suggested alternatives located over 1.2km away, indicating potential relocation opportunities.
+![Existing vs GA-Optimized CNG Stand Locations](Existing_vs_GA_Optimized.png)
 
 ## Tools
 
