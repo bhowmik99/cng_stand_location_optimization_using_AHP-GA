@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="1dg2dwbI0jOamklvwatC2ecMS0i_QAvbN">
+	<name>Location of different points of Temuki-Bondor corridor</name>
+	<gx:CascadingStyle kml:id="__managed_style_02573B9E9D41BA50E764_highlight">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_02573B9E9D41BA50E764_normal">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_0D212A6BE841BA50E76C_normal">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_02573B9E9D41BA50E764">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_02573B9E9D41BA50E764_normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_02573B9E9D41BA50E764_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_0D212A6BE841BA50E76C_highlight">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0D212A6BE841BA50E76C">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_0D212A6BE841BA50E76C_normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0D212A6BE841BA50E76C_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0830DFB96141B504AC40">
+		<name>Temuki CNG</name>
+		<LookAt>
+			<longitude>91.82319914675728</longitude>
+			<latitude>24.91371164635379</latitude>
+			<altitude>12.79129099314446</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>194.3280158449124</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0D212A6BE841BA50E76C</styleUrl>
+		<Point>
+			<coordinates>91.82317547201927,24.91345903825365,12.68829706098046</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D200B1ACA41B505A7A8">
+		<name>Kumargao CNG</name>
+		<LookAt>
+			<longitude>91.82658506948746</longitude>
+			<latitude>24.91240820791026</latitude>
+			<altitude>12.84606606030095</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>551.2396134324081</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02573B9E9D41BA50E764</styleUrl>
+		<Point>
+			<coordinates>91.82825835236513,24.9121898659535,13.23669762343424</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="042310D5DF41B506F7AE">
+		<name>Sust CNG</name>
+		<LookAt>
+			<longitude>91.83221616934267</longitude>
+			<latitude>24.91120474957996</latitude>
+			<altitude>12.88740437681864</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>94.20623334655829</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02573B9E9D41BA50E764</styleUrl>
+		<Point>
+			<coordinates>91.83237577013846,24.91105018381261,12.67432663989195</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04B11F22A441B50844FE">
+		<name>Modina Market CNG</name>
+		<LookAt>
+			<longitude>91.84787600523234</longitude>
+			<latitude>24.91037222565363</latitude>
+			<altitude>14.45239878055901</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>165.5000422476223</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02573B9E9D41BA50E764</styleUrl>
+		<Point>
+			<coordinates>91.84793868073054,24.91040976455164,14.84666765370276</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08B402FE3E41B508D4AC">
+		<name>Patantula CNG</name>
+		<LookAt>
+			<longitude>91.854627731023</longitude>
+			<latitude>24.91140140327665</latitude>
+			<altitude>15.85809474493617</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>134.7847630896649</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02573B9E9D41BA50E764</styleUrl>
+		<Point>
+			<coordinates>91.85491492489065,24.91116899372588,15.63598309445941</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F3EB7200F41B509F553">
+		<name>Rikabi bazar CNG</name>
+		<LookAt>
+			<longitude>91.86258320887896</longitude>
+			<latitude>24.89939603422794</latitude>
+			<altitude>15.15640174748121</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>291.5032764918578</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02573B9E9D41BA50E764</styleUrl>
+		<Point>
+			<coordinates>91.8623847939751,24.89919143394741,15.0308719103735</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0ACDBE3DCE41B50ABE79">
+		<name>Mirzajangal Sylhet</name>
+		<LookAt>
+			<longitude>91.86415437363929</longitude>
+			<latitude>24.89433691176066</latitude>
+			<altitude>13.38211681155427</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>144.8219847356086</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02573B9E9D41BA50E764</styleUrl>
+		<Point>
+			<coordinates>91.86415229878365,24.89435761465281,13.34138212550819</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09EDE19B7F41B50BAA78">
+		<name>Bondor CNG</name>
+		<LookAt>
+			<longitude>91.86954771671759</longitude>
+			<latitude>24.8917894519665</latitude>
+			<altitude>13.04158283016078</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>296.5137403886548</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02573B9E9D41BA50E764</styleUrl>
+		<Point>
+			<coordinates>91.87025711361929,24.89172009130647,12.97111594964653</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="021C9FB4FA41B5CF7AF9">
+		<name>Kin Bridge CNG stand</name>
+		<LookAt>
+			<longitude>91.86791993353607</longitude>
+			<latitude>24.89059553819538</latitude>
+			<altitude>13.35785200255832</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>324.6488891858826</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02573B9E9D41BA50E764</styleUrl>
+		<Point>
+			<coordinates>91.86788732031698,24.89038633748723,12.71245879020621</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F261CD4F041B5F1757F">
+		<name>Subid Bazar Point</name>
+		<LookAt>
+			<longitude>91.86113859445831</longitude>
+			<latitude>24.90725868021932</latitude>
+			<altitude>15.53007625129032</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>225.5091183948025</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02573B9E9D41BA50E764</styleUrl>
+		<Point>
+			<coordinates>91.86082833649095,24.90708720082325,15.42129553433871</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C0EF0CB8D41B5F2BC38">
+		<name>Lama Bazar</name>
+		<LookAt>
+			<longitude>91.86139238924051</longitude>
+			<latitude>24.89635797814205</latitude>
+			<altitude>15.93941240589014</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>173.0295403532364</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02573B9E9D41BA50E764</styleUrl>
+		<Point>
+			<coordinates>91.86145913202044,24.89615953973176,16.38475814122496</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D279709AF41B5F37A71">
+		<name>Jitu Miya</name>
+		<LookAt>
+			<longitude>91.86032499981577</longitude>
+			<latitude>24.89055606815678</latitude>
+			<altitude>13.99903483224841</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>211.8270106511409</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02573B9E9D41BA50E764</styleUrl>
+		<Point>
+			<coordinates>91.86004963516633,24.89050776656561,13.38437016962191</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0DED5C633D41B64455A9">
+		<name>Mount Adora Hospital</name>
+		<LookAt>
+			<longitude>91.84357751784739</longitude>
+			<latitude>24.90989270311677</latitude>
+			<altitude>13.70245097188073</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>133.5271001932051</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02573B9E9D41BA50E764</styleUrl>
+		<Point>
+			<coordinates>91.84378419098695,24.90972771528922,14.25562062247895</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09E7E4295D41B6454A20">
+		<name>Scholarshome School</name>
+		<LookAt>
+			<longitude>91.85239475918092</longitude>
+			<latitude>24.91026680185375</latitude>
+			<altitude>15.20638674442822</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>369.8098620984093</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02573B9E9D41BA50E764</styleUrl>
+		<Point>
+			<coordinates>91.85225700191333,24.91024277454382,15.14366970111279</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="085D87536541B646073F">
+		<name>Queens Hospital</name>
+		<LookAt>
+			<longitude>91.85735042712446</longitude>
+			<latitude>24.90837170846045</latitude>
+			<altitude>15.20081138450234</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>258.7381240913238</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02573B9E9D41BA50E764</styleUrl>
+		<Point>
+			<coordinates>91.85750652392866,24.90835653946168,14.48381483101582</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E4F2C365441B6465124">
+		<name>Anondoniketon School</name>
+		<LookAt>
+			<longitude>91.8568550969427</longitude>
+			<latitude>24.90896056687302</latitude>
+			<altitude>14.6794428841919</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>195.9517921008592</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02573B9E9D41BA50E764</styleUrl>
+		<Point>
+			<coordinates>91.85669996951484,24.90901000087425,15.50716135496744</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00107CEA9341B647953C">
+		<name>Blue Bird School</name>
+		<LookAt>
+			<longitude>91.86081499983717</longitude>
+			<latitude>24.90574078812384</latitude>
+			<altitude>15.59638441068742</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>476.2085325225781</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02573B9E9D41BA50E764</styleUrl>
+		<Point>
+			<coordinates>91.86039940062292,24.90595706949254,16.17324709910655</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06243988C741B6543950">
+		<name>Police line School</name>
+		<LookAt>
+			<longitude>91.86155620242184</longitude>
+			<latitude>24.90269578326144</latitude>
+			<altitude>13.60886787925932</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>303.4529282161748</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02573B9E9D41BA50E764</styleUrl>
+		<Point>
+			<coordinates>91.86156923997775,24.90266227789927,13.76640266231773</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="042817455541B6554C2E">
+		<name>Sylhet District Stadium</name>
+		<LookAt>
+			<longitude>91.86191259632743</longitude>
+			<latitude>24.8985694506248</latitude>
+			<altitude>16.09325686216005</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>690.783270755419</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02573B9E9D41BA50E764</styleUrl>
+		<Point>
+			<coordinates>91.86256169429157,24.8984076502304,15.01165264011201</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04609C8E7641B6560284">
+		<name>NorthEast University</name>
+		<LookAt>
+			<longitude>91.86128125452323</longitude>
+			<latitude>24.89034011421361</latitude>
+			<altitude>12.34177566229025</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>216.4998928132627</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02573B9E9D41BA50E764</styleUrl>
+		<Point>
+			<coordinates>91.86090945790238,24.89013999504012,13.41490273254374</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E35B7FB5141B6568C91">
+		<name>Parkview</name>
+		<LookAt>
+			<longitude>91.86272997576461</longitude>
+			<latitude>24.89054222735385</latitude>
+			<altitude>13.55067049045342</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>373.849393180426</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02573B9E9D41BA50E764</styleUrl>
+		<Point>
+			<coordinates>91.86278205041351,24.89053436238897,13.63306920873768</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="060EE1F20341BA520F71">
+		<name>market 1</name>
+		<LookAt>
+			<longitude>91.8478760049048</longitude>
+			<latitude>24.91037222324454</latitude>
+			<altitude>14.45239878055901</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.99992141065025</gx:fovy>
+			<range>165.5456905295614</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02573B9E9D41BA50E764</styleUrl>
+		<Point>
+			<coordinates>91.8478149359932,24.91020712561294,16.03016657093794</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06FB39C26041BA529B14">
+		<name>Bondor Market</name>
+		<LookAt>
+			<longitude>91.87045630403109</longitude>
+			<latitude>24.89173746620287</latitude>
+			<altitude>14.31356702153671</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.99999999957684</gx:fovy>
+			<range>295.2740864868974</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02573B9E9D41BA50E764</styleUrl>
+		<Point>
+			<coordinates>91.87038216755178,24.89143580298033,13.80630059798262</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="031EABBA8541BA614DAC">
+		<name>Bondor Junction</name>
+		<LookAt>
+			<longitude>91.8702758306905</longitude>
+			<latitude>24.89175452195484</latitude>
+			<altitude>13.43929562663498</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.99999999957684</gx:fovy>
+			<range>773.9789855261189</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02573B9E9D41BA50E764</styleUrl>
+		<Point>
+			<coordinates>91.87007632264223,24.89123673054386,13.552659041902</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="090DC197A841BA6323E4">
+		<name>Taltola Junction</name>
+		<LookAt>
+			<longitude>91.86477440383145</longitude>
+			<latitude>24.89105417426881</latitude>
+			<altitude>12.74269954228572</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.99999999957684</gx:fovy>
+			<range>311.2380752427271</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02573B9E9D41BA50E764</styleUrl>
+		<Point>
+			<coordinates>91.86534235774998,24.89110872340057,12.96623769308519</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="002E00CA7C41BA64BF67">
+		<name>Rikabi Bazar Junction</name>
+		<LookAt>
+			<longitude>91.86259373840289</longitude>
+			<latitude>24.89967078690576</latitude>
+			<altitude>15.5140043770792</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.99999999957684</gx:fovy>
+			<range>370.0076133761468</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02573B9E9D41BA50E764</styleUrl>
+		<Point>
+			<coordinates>91.86243701990999,24.89907326788276,14.6291544324316</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01B618DF6D41BA65D4A0">
+		<name>Panthantula Junction</name>
+		<LookAt>
+			<longitude>91.85484775900156</longitude>
+			<latitude>24.91126627902019</latitude>
+			<altitude>15.6748613685345</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.99999999957684</gx:fovy>
+			<range>180.3616232563036</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02573B9E9D41BA50E764</styleUrl>
+		<Point>
+			<coordinates>91.85486202803619,24.91101333170698,14.9274548908251</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0EAC4AEC1E41BA66A1EC">
+		<name>Modina market Juction</name>
+		<LookAt>
+			<longitude>91.84669526366042</longitude>
+			<latitude>24.91103409349439</latitude>
+			<altitude>14.99015289014379</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.99999999957684</gx:fovy>
+			<range>430.0976257002914</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02573B9E9D41BA50E764</styleUrl>
+		<Point>
+			<coordinates>91.84667366334553,24.91064787597919,14.26272428082628</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0AA00D7C4341BA679C4C">
+		<name>Temuki Junction</name>
+		<LookAt>
+			<longitude>91.82316606490002</longitude>
+			<latitude>24.91390861464537</latitude>
+			<altitude>13.12803643154046</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.99999999957684</gx:fovy>
+			<range>499.900581877737</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_02573B9E9D41BA50E764</styleUrl>
+		<Point>
+			<coordinates>91.82343852943288,24.9133103465976,12.52554503482359</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
